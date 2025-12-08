@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a lot of stuff
 
 - 📫 you can catch me on insta sachin8958p_
-- 
+
 - ⚡ Fun fact: ... i don't like coding
 
 <!---

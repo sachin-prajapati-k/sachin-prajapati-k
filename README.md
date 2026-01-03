@@ -24,8 +24,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-prajapati-k&theme=tokyo-night&hide_border=true" />   
 </td> /> -->
 <td width="100%" colspan="2">
-  📈 Contribution Graph  
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin-prajapati-k&theme=github_dark" height="100%" />
+  📈 Contribution Graph 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin-prajapati-k&theme=github_dark" width="100%"/>
 </td>
 </tr>
 </table>

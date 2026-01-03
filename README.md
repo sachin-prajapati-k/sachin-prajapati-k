@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @sachin prajapati 
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning a lot of stuff
-# 👋 Hi, I'm Sachin Prajapati  
-
 🎓 **MCA CS (AI/ML)** at Sikkim Manipal University  
 🚀 Passionate about **Artificial Intelligence, Web Development & Data Science**  
 📍 Uttar Pradesh, India  
-
 
 ---
 ## 📊 GitHub Activity
@@ -32,20 +26,24 @@
 
 ## 🧠 Skills
 
-- Python  
-- JavaScript  
-- React  
-- Machine Learning  
-- Data Science  
-- Git & GitHub  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/> Python &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/> JavaScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22"/> React &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="22"/> Machine Learning &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="22"/> Data Science &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22"/> Git &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/> GitHub
+</p>
+
+
+ 
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:your-email@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)  [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:your-email@gmail.com)
 ---
 
 > *“Keep Calm & busy busy busy.....”*

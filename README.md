@@ -1,25 +1,31 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=480&lines=Welcome...;Engineer+in+Progress...;Building+with+Code+%26+Clarity.;AI+%7C+Full+Stack+%7C+Systems+Thinking..." alt="typing banner" />
-
-🎓 **MCA CS (AI/ML)** at Sikkim Manipal University  
-🚀 Passionate about **Artificial Intelligence, Web Development & Data Science**  
-📍 Uttar Pradesh, India  
-
----
-## 📊 GitHub Activity
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=400&height=20&lines=Welcome...;Developer+in+Progress...;Building+with+Code+%26+Clarity.;AI+%7C+Full+Stack+%7C+Systems+Thinking..." alt="typing banner" />
 <table>
-<tr>
-<td width="40%">
+  <tr>
+    <td width="50%">
+      <pre>
+🎓 **MCA CS (AI/ML)** at Sikkim Manipal University 
+🚀 Passionate about **Artificial Intelligence,
+   Web Development & Data Science**  
+📍 Uttar Pradesh, India  </pre>
+    </td>
+    <td width="50%">
 
-### 🔥 Streak  
+🔥 Streak  
 <img src="https://streak-stats.demolab.com?user=sachin-prajapati-k&theme=tokyonight&hide_border=true" />
 
 </td>
-<td width="60%">
+</tr>
 
-### 📈 Contribution Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-prajapati-k&theme=tokyo-night&hide_border=true" />
 
+
+<tr>
+
+<td width="50%">
+📈 Contribution Graph  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-prajapati-k&theme=tokyo-night&hide_border=true" />   
+</td>
+<td width="50%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin-prajapati-k&theme=github_dark" height="100%" />
 </td>
 </tr>
 </table>

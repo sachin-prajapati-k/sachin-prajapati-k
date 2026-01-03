@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=480&lines=Welcome...;Engineer+in+Progress...;Building+with+Code+%26+Clarity.;AI+%7C+Full+Stack+%7C+Systems+Thinking..." alt="typing banner" />
+
 🎓 **MCA CS (AI/ML)** at Sikkim Manipal University  
 🚀 Passionate about **Artificial Intelligence, Web Development & Data Science**  
 📍 Uttar Pradesh, India  

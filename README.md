@@ -2,11 +2,20 @@
 <table>
   <tr>
     <td width="50%">
-      <pre>
-🎓 **MCA CS (AI/ML)** at Sikkim Manipal University 
-🚀 Passionate about **Artificial Intelligence,
-   Web Development & Data Science**  
-📍 Uttar Pradesh, India  </pre>
+<p>
+🎓 <b>MCA CS (AI/ML)</b> at Sikkim Manipal University<br>
+🚀 Passionate about <b>Artificial Intelligence, Web &nbsp;&nbsp; Development & Data Science</b><br>
+📍 Uttar Pradesh, India<br>
+🧑‍💻 <b>Showcase</b><br><br>
+
+<a href="https://foodmyshop.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Food%20App-FFB703?style=for-the-badge&logo=react&logoColor=black"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://mymediaview.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Movie%20App-0A192F?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+</p>
     </td>
     <td width="50%">
 
